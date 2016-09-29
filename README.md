@@ -1,0 +1,1 @@
+This is vercthu's first git project!
